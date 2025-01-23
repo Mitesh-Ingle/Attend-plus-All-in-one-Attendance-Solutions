@@ -4,7 +4,7 @@ import java.util.List;
 
 public class AttendanceRecordRequest {
 	private String username;
-	private long subjectId;
+	private Long subjectId;
 	private String date;
 	private String time;
     private int numberOfStudents;
